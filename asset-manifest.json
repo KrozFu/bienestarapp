@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bienestarapp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bienestarapp/static/js/main.909add78.chunk.js",
+    "main.js.map": "/bienestarapp/static/js/main.909add78.chunk.js.map",
+    "runtime-main.js": "/bienestarapp/static/js/runtime-main.b0d6540a.js",
+    "runtime-main.js.map": "/bienestarapp/static/js/runtime-main.b0d6540a.js.map",
+    "static/js/2.5cdb4892.chunk.js": "/bienestarapp/static/js/2.5cdb4892.chunk.js",
+    "static/js/2.5cdb4892.chunk.js.map": "/bienestarapp/static/js/2.5cdb4892.chunk.js.map",
+    "index.html": "/bienestarapp/index.html",
+    "precache-manifest.5be26589f354ec3db1de98870f6802c2.js": "/bienestarapp/precache-manifest.5be26589f354ec3db1de98870f6802c2.js",
+    "service-worker.js": "/bienestarapp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bienestarapp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5cdb4892.chunk.js.LICENSE.txt": "/bienestarapp/static/js/2.5cdb4892.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bienestarapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0d6540a.js",
+    "static/js/2.5cdb4892.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.909add78.chunk.js"
+  ]
+}

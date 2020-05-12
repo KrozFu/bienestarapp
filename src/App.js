@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           App Bienestar
+          Linea agrega por user Ipial
         </p>
         <a
           className="App-link"

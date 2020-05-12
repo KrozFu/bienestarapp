@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d61f76637fef01c35c916ebbe197465",
+    "revision": "f64ed525eb8a4b7aa662dcada388dcce",
     "url": "/bienestarapp/index.html"
   },
   {
-    "revision": "beaa5671ff1ba56b05ff",
+    "revision": "c4b8f27aff08ce27a2ae",
     "url": "/bienestarapp/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bienestarapp/static/js/2.5cdb4892.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "beaa5671ff1ba56b05ff",
-    "url": "/bienestarapp/static/js/main.70bf5624.chunk.js"
+    "revision": "c4b8f27aff08ce27a2ae",
+    "url": "/bienestarapp/static/js/main.68de75e2.chunk.js"
   },
   {
     "revision": "d2542e8951a6e08d6b6e",

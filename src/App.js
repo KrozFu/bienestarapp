@@ -10,6 +10,7 @@ function App() {
         <p>
           App Bienestar
           Linea agrega por user Ipial
+          Otra linea agrega por user Ipial
         </p>
         <a
           className="App-link"

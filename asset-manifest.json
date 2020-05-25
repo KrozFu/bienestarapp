@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/bienestarapp/static/css/main.1e8b6216.chunk.css",
-    "main.js": "/bienestarapp/static/js/main.a8dd4e18.chunk.js",
-    "main.js.map": "/bienestarapp/static/js/main.a8dd4e18.chunk.js.map",
+    "main.css": "/bienestarapp/static/css/main.f6cffc85.chunk.css",
+    "main.js": "/bienestarapp/static/js/main.769f9523.chunk.js",
+    "main.js.map": "/bienestarapp/static/js/main.769f9523.chunk.js.map",
     "runtime-main.js": "/bienestarapp/static/js/runtime-main.b0d6540a.js",
     "runtime-main.js.map": "/bienestarapp/static/js/runtime-main.b0d6540a.js.map",
-    "static/js/2.24e7aaff.chunk.js": "/bienestarapp/static/js/2.24e7aaff.chunk.js",
-    "static/js/2.24e7aaff.chunk.js.map": "/bienestarapp/static/js/2.24e7aaff.chunk.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/bienestarapp/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.fb844a59.chunk.js": "/bienestarapp/static/js/2.fb844a59.chunk.js",
+    "static/js/2.fb844a59.chunk.js.map": "/bienestarapp/static/js/2.fb844a59.chunk.js.map",
     "index.html": "/bienestarapp/index.html",
-    "precache-manifest.56e87c8a3491a6ccee4815bbb5c5ace7.js": "/bienestarapp/precache-manifest.56e87c8a3491a6ccee4815bbb5c5ace7.js",
+    "precache-manifest.18b8ea5fd06ad43659340d15152abc52.js": "/bienestarapp/precache-manifest.18b8ea5fd06ad43659340d15152abc52.js",
     "service-worker.js": "/bienestarapp/service-worker.js",
-    "static/css/main.1e8b6216.chunk.css.map": "/bienestarapp/static/css/main.1e8b6216.chunk.css.map",
-    "static/js/2.24e7aaff.chunk.js.LICENSE.txt": "/bienestarapp/static/js/2.24e7aaff.chunk.js.LICENSE.txt"
+    "static/css/2.af3c1da9.chunk.css.map": "/bienestarapp/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.f6cffc85.chunk.css.map": "/bienestarapp/static/css/main.f6cffc85.chunk.css.map",
+    "static/js/2.fb844a59.chunk.js.LICENSE.txt": "/bienestarapp/static/js/2.fb844a59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b0d6540a.js",
-    "static/js/2.24e7aaff.chunk.js",
-    "static/css/main.1e8b6216.chunk.css",
-    "static/js/main.a8dd4e18.chunk.js"
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.fb844a59.chunk.js",
+    "static/css/main.f6cffc85.chunk.css",
+    "static/js/main.769f9523.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bienestarapp/precache-manifest.56e87c8a3491a6ccee4815bbb5c5ace7.js"
+  "/bienestarapp/precache-manifest.18b8ea5fd06ad43659340d15152abc52.js"
 );
 
 self.addEventListener('message', (event) => {

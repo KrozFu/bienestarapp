@@ -1,12 +1,17 @@
 import React from 'react';
 import './App.css';
+import Nabvarr from './components/HeaderBar';
+import Formulary from './components/Formulary';
 
-function App() {
-  return (
-    <div className="App">
-      <h1>Hello Bienestar</h1>
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <div className="App">
+        <Nabvarr />
+        <Formulary />
+      </div>
+    );
+  }
 }
 
 export default App;

@@ -20,6 +20,7 @@ function App() {
         >
           Learn React
         </a>
+        <button class="btn">Botón Bootstrap de prueba</button>
       </header>
     </div>
   );

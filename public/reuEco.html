@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta charset="utf-8">
+        <meta name="Reubicación">
+        <title>Reubicacion socioeconómica</title>
+        <!--Bootstrap con CDN-->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+       
+        
+    </head>
+    <header>
+        <h2 class="h1 text-center">Reubicacion socioeconómica</h2>
+    </header>
+    <nav>
+        
+    </nav>
+    
+    <body id="Reubicación">
+        <Form class="container p-4">
+            <div class="input-group mt-1">
+                <span class="input-group-addon">Primer nombre</span>
+                <input type="text" class="form-control d-inline-block" required placeholder="Ingrese su primer nombre" >
+                <label for="name">Segundo nobre: </label>
+                <input type="text" class="form-control" placeholder="Ingrese segundo nombre" >
+            
+            <div class="input-group mt-1">
+                <label for="name">Primer apellido: </label>
+                <input type="text" class="form-control" required placeholder="Ingrese prinmer apellido">
+                <label for="name">Segundo apellido: </label>
+                <input type="text" class="form-control" placeholder="Ingrese segundo apellido">
+            </div>
+            <div class="input-group mt-1">
+                <label for="fecha">Fecha de nacimiento: </label>
+                <input type="date" class="form-control" required placeholder="Ingrese fecha de nacimiento">
+                <label for="name">Género </label>
+                <select class="form-control" id="gender">
+                    <option>Hombre</option>
+                    <option>Mujer</option>
+                </select>
+            </div>
+            <div class="input-group mt-1">
+                <label for="phone">Teléfono: </label>
+                <input type="number" class="form-control" required placeholder="Ingrese número de contacto">
+                <label for="email">Correo Electrónico: </label>
+                <input type="email" class="form-control" required placeholder="Ingrese Correo Electrónico">
+            </div>
+            <div class="input-group mt-1">
+                <label for="gender">Antiguedad</label>
+                <select class="form-control" id="gender">
+                    <option>Admitido</option>
+                    <option>Antiguo</option>
+                    <option>Reingreso</option>
+                    <option>Reserva de cupo</option>
+                </select>
+                <label for="gender">Plan de estudios</label>
+                <select class="form-control" id="gender">
+                    <option>Administración de Empresas (Diurno)</option>
+                    <option>Administración de Empresas (Nocturno)</option>
+                    <option>Administración de Sistemas Informáticos</option>
+                    <option>Arquitectura</option>
+                    <option>Ingeniería Civil</option>
+                    <option>Ingeniería Eléctrica</option>
+                    <option>Ingeniería Electrónica</option>
+                    <option>Ingeniería Física</option>
+                    <option> Ingeniería Industrial</option>
+                    <option>Ingeniería Química</option>
+                    <option> Matemáticas</option>
+                </select>
+            </div>
+            <div class="input-group mt-1">
+                <label for="number">Número de hijos </label>
+                <input type="number" class="form-control" required placeholder="Ingrese número de hijos">
+                <label for="number">PBM </label>
+                <input type="number" class="form-control" required placeholder="Ingrese PBM">
+            </div>
+            <div class="input-group mt-1">
+                <label for="number">Num solicutudes realizadas </label>
+                <select>
+                    <option>1</option>
+                    <option >2</option>
+                    <option >3</option>
+                    <option >4</option>
+                    <option >Más de 5</option>
+                </select>
+                <label for="name">Hermanos estudiando en la universidad </label>
+                <input type="number" class="form-control" required placeholder="Ingrese número de hijos">
+            </div>
+            <div class="input-group mt-1">
+                <label for="phone">Códigos de los hermanos </label>
+                <input type="number" class="form-control ml-1"  placeholder="código hermano">
+                <input type="number" class="form-control ml-1"  placeholder="código hermano">
+                <input type="number" class="form-control ml-1"  placeholder="código hermano">
+                <input type="number" class="form-control ml-1"  placeholder="código hermano">
+            </div>
+            <div class="input-group mt-1">
+                <label for="gender">Viene de otra carrera</label>
+                <select class="form-control" id="gender">
+                    <option>Si</option>
+                    <option>No</option>
+                </select>
+                <label for="gender">Cual</label>
+                <select class="form-control" id="gender">
+                    <option>Ninguna</option>
+                    <option>Administración de Empresas (Diurno)</option>
+                    <option>Administración de Empresas (Nocturno)</option>
+                    <option>Administración de Sistemas Informáticos</option>
+                    <option>Arquitectura</option>
+                    <option>Ingeniería Civil</option>
+                    <option>Ingeniería Eléctrica</option>
+                    <option>Ingeniería Electrónica</option>
+                    <option>Ingeniería Física</option>
+                    <option> Ingeniería Industrial</option>
+                    <option>Ingeniería Química</option>
+                    <option> Matemáticas</option>
+                </select>
+            </div>
+            <br>
+            <Button variant="primary" type="submit" class="btn-success">
+              Submit
+            </Button>
+            </div>
+          </Form>
+
+        <!-- JS, Popper.js, and jQuery -->
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+        
+    </body>
+    
+    <footer>
+        <!--en este espacio se pueden colocar algunos elemntos de interes-->
+    </footer>
+</html>

@@ -27,3 +27,7 @@ para usar bootstrap4 en html5 es recomendable
 
     - en index.js agregar la linea 
       import './includes/bootstrap';
+
+
+
+estoy trabajando con CDN
